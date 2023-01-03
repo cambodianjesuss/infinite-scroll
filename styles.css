@@ -1,1 +1,9 @@
 /* Begin */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Courier New', Courier, monospace;
+}
