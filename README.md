@@ -1,1 +1,2 @@
-# inifinite-scroll
+# Infinite Scroll
+## App for inifinte scrolling
