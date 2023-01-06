@@ -31,7 +31,7 @@ const setAttributes = (element, attributes) => {
 
 // Create Elements for Links & Photos, and Add to DOM
 const displayPhotos = () =>{
-  imageLoaded = 0;
+  imagesLoaded = 0;
   totalImages = photosArray.length;
   console.log('total images', totalImages)
   photosArray.forEach((photo)=>{
